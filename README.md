@@ -24,7 +24,7 @@ Welcome to the GitHub repository for our Anime Tracking Application! This projec
 
 For detailed information about the project, including design documents, database schema, and technical specifications, please refer to our documentation:
 
-➡️ [View Documentations](https://github.com/vinhchis/eProject-Sem02_T3.2307.E1_TrackingAnime_Group05.git/Documentations)
+➡️ [View Documentations](https://github.com/vinhchis/eProject-Sem02_T3.2307.E1_TrackingAnime_Group05/blob/main/01.%20Documentations/1.%201.%20Project%20Docs/TrackingAnime_Document.pdf)
 
 ---
 
